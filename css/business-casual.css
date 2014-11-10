@@ -37,6 +37,12 @@ hr {
     border-color: #999999;
 }
 
+legend {
+    color: #777777;
+    font-size: 1em;
+    padding-bottom: 0;
+}
+
 .brand,
 .address-bar {
     display: none;
