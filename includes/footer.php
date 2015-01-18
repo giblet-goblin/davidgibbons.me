@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; David William Gibbons 2014</p>
+                    <p>Copyright &copy; David William Gibbons 2015</p>
                 </div>
             </div>
         </div>
