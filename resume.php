@@ -1,5 +1,5 @@
 <?php
-$title = "Projects";
+$title = "Resume";
 include 'includes/header.php';
 ?>
 
@@ -16,7 +16,7 @@ include 'includes/header.php';
                 </div>
                 <div class="col-lg-12">
                     <p>
-                        Thanks for stopping by. This page is still a work in progress. If you have any questions, feel free to <a href="contact">contact me</a>!
+                        Thanks for stopping by. You can <a href="hosted/Gibbons-Resume.pdf">download a current copy of my resume here</a>. As a student, however, I warn you that my resume needs updating quite frequenty. If you would like an up to date copy of my resume, feel free to <a href="contact">contact me</a>! If you give me a little information about what you are looking for as well, I may be able to provide you with a more tailored response with my experience in the field you are looking for.
                     </p>
                 </div>
                 <div class="clearfix"></div>
