@@ -9,7 +9,7 @@
     <meta name="description" content="Personal Website for the student, web developer, programmer, and leader David Gibbons">
     <meta name="author" content="David Gibbons">
 
-    <title><? echo $title; ?> - David Gibbons</title>
+    <title><?php echo $title; ?> - David Gibbons</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
