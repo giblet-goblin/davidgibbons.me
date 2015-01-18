@@ -77,11 +77,24 @@ include 'includes/header.php';
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
+                    <h2 class="intro-text text-center">Past and Present
+                        <strong>Work</strong>
+                    </h2>
+                    <hr>
+                    <p>I have done a wide variety things both for pay and voluntarily for non-profit organizations and favors for friends. My favorite jobs and projects have been one that have not only pushed the limits of my knowledge but have forced me to learn even more. These experiences range from opportunitiies to plan, organize, lead, design circuits, and program.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
                     <h2 class="intro-text text-center">Personal
                         <strong>Philosophies</strong>
                     </h2>
                     <hr>
-                    <p>I am a student of Jesuit education and am a believer of <a hre="https://www.google.com/search?q=magis&oq=magis&aqs=chrome..69i57j69i60l5.531j0j7&client=ubuntu-browser&sourceid=chrome&es_sm=93&ie=UTF-8#q=jesuit+magis">Magis</a>. This has inspired me to go as far as I have and work as well as I have on all of my projects.</p>
+                    <p>I have a wide range of ever changing beliefs but one thing that they have inspired me to do is meet and even exceed expectation in every possible way and on every project. Whether it is a personal ambition or a favor for a friend, I do not stop until I am satisfied that I have done my best.</p>
                 </div>
             </div>
         </div>
