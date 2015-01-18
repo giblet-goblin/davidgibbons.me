@@ -10,7 +10,7 @@ include 'includes/header.php';
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">My
-                        <strong>Resume</strong>
+                        <strong>Projects</strong>
                     </h2>
                     <hr>
                 </div>
